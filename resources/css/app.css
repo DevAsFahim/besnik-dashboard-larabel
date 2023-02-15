@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.wrapper-width {
+  width: calc(100% - 270px);
+}
